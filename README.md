@@ -49,4 +49,4 @@ Enter 5 to exit
 - `if` / `else` statements for validation
 
 ## Author
-Your name and surname
+Aziswa Sihle Sonyoni
